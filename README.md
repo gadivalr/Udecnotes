@@ -42,7 +42,7 @@ git push origin <nombre-de-tu-rama>
 
 7. Los colaboradores del proyecto revisarán tus cambios y los integrarán en el repositorio principal si son aceptados. ¡Contribución realizada!
 # Contacto
-Si tienes preguntas, sugerencias o comentarios sobre Llamtivo, puedes contactarnos a través de las siguientes vías:
+Si tienes preguntas, sugerencias o comentarios sobre Udecnotes, puedes contactarnos a través de las siguientes vías:
 
 Email: gaddean21@gmail.com <br>
 Issues: https://github.com/gadivalr/Udecnotes/issues <br>
