@@ -1,8 +1,8 @@
 # APUNTES INGENIERÍA CIVIL ELECTRÓNICA 
 Udecnotes es un proyecto de apuntes para la carrera de Ingeniería Civil Electrónica pero también puede servir para otras carreras de ingeniería. Este repositorio de GitHub contiene información y recursos útiles para el estudio de esta disciplina. 
 
-#Requisitos previos
-Antes de clonar el repositorio, asegúrate de tener instalado Git en tu máquina local. Si no lo tienes instalado, puedes descargarlo desde el sitio oficial de Git en https://git-scm.com/downloads. <br>
+# Requisitos previos
+Antes de clonar el repositorio, asegúrese de tener instalado Git en su máquina local. Si no lo tienes instalado, puedes descargarlo desde el sitio oficial de Git en https://git-scm.com/downloads. <br>
 Otra opción es descargarlo en archivo zip
 1. Haz clic en el botón verde "Code" en la esquina derecha, debajo de la imagen del repositorio.
 
